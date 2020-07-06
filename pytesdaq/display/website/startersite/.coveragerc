@@ -1,0 +1,3 @@
+[run]
+source = startersite
+omit = startersite/test*
